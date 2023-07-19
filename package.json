@@ -7,6 +7,7 @@
   },
   "author": "zodern",
   "license": "MIT",
+  "main": "./index.js",
   "scripts": {
     "postinstall": "node install.js"
   }
