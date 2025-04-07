@@ -12,7 +12,7 @@ if (!fs.existsSync(packageJsonPath)) {
     name: 'swc',
     version: "1.0.0",
     dependencies: {
-      "@swc/core": "1.11.16"
+      "@swc/core": "1.11.18"
     }
   }));
 }
